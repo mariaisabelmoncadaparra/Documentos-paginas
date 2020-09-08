@@ -1,0 +1,62 @@
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 70px;
+    margin: 10;
+}
+
+
+img {
+    
+    width:400px;
+    height:341px;
+    left: 37%;
+    top: 37%;
+    position: absolute;
+    margin-top: 10px !important; 
+}
+   
+ 
+.barra_d_navegacion{
+    border-bottom:black solid;
+    display: block;
+    max-width: 100%;
+    border:1px black solid !important;
+    text-align:right;
+}
+
+.funcionalidad{
+    border-left:black solid;
+
+
+}
+
+#titulo{
+    font-size: 10px;
+
+}
+
+#usuario{
+    width: 50px !important;
+    height:50px !important ;
+    border:1px solid !important;
+    position: inherit;
+    text-align: right;
+    
+}
+h1{
+    color: black;
+
+}
+h2{
+    color:black;
+    text-align: justify;
+    position: relative;
+}
+img{
+    left: 37%;
+    top: 37%;
+    text-align: right;
+
+}
+

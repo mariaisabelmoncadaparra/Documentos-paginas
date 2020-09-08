@@ -1,0 +1,42 @@
+.barra_d_navegacion{
+    border-bottom:black solid;
+    display: block;
+    max-width: 100%;
+    border:1px black solid !important;
+    text-align:right;
+}
+
+.funcionalidad{
+    border-left:black solid;
+
+
+}
+
+#titulo{
+    font-size: 10px;
+
+}
+
+#usuario{
+    width: 50px !important;
+    height:50px !important ;
+    border:1px solid !important;
+    position: inherit;
+    text-align: right;
+    
+}
+h1{
+    color: black;
+
+}
+h2{
+    color:black;
+    text-align: justify;
+    position: relative;
+}
+img{
+    left: 37%;
+    top: 37%;
+    text-align: right;
+
+}
